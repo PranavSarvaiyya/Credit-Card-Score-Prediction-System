@@ -1,0 +1,2 @@
+#Credit-Card-Prediction-System
+Credit Score Prediction System. This project is an end-to-end ML web application built with Streamlit and scikit-learn. It: Loads a trained ML model, feature list, and scaler from .pkl files. Collects user inputs such as Age, Gender, Income, Education, Marital Status, Number of Children, and Home Ownership. Performs the same preprocessing/encoding used during training. Uses the model to predict the credit score class: 1 → High 0 → Average 2 → Low Displays the result in a clean, interactive UI.
